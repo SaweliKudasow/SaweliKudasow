@@ -25,6 +25,7 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp&logoColor=239120)
 ![GDScript](https://img.shields.io/badge/-GDScript-black?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift&logoColor=F05138)
 
 ### 🏗️ Laufzeitumgebung
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
