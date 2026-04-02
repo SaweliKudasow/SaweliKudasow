@@ -37,6 +37,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
+### 🗄️ Datenbanken
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
 ### 🖥️ Desktop & GUI
 ![WinForms](https://img.shields.io/badge/-WinForms-black?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
