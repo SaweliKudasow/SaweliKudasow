@@ -33,6 +33,7 @@
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
