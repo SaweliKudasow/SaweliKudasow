@@ -2,7 +2,7 @@
 <h4 align="center">
 Some people scroll. 😴<br>
 Some people build. 🔥<br><br>
-| Guess which one I chose. 😉 |
+Guess which one I chose. 😉
 </h4>
 
 ---
@@ -66,7 +66,7 @@ Open to new opportunities and always ready to learn and improve.
 
 ```text
 🌐 Improving backend skills
-👨‍💻 Getting a Job!!!!
+👨‍💻 Getting a Job!
 ```
 
 ---
